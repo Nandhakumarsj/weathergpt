@@ -1,5 +1,5 @@
 const ILLUSTRATION_ARIA_LABEL =
-  "Vercel and Next.js logos side-by-side, surrounded by multiple growing ellipses with orbiting circles on top.";
+  "Weather Image background Image.";
 
 export function Illustration() {
   return (
