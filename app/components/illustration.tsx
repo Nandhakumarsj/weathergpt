@@ -5,7 +5,7 @@ const ILLUSTRATION_ARIA_LABEL =
 export function Illustration() {
   return (
     <>
-      <Image src="https://wallpaperaccess.com/full/5466358.jpg" width ={780} height = {780}>
+      <Image src="https://wallpaperaccess.com/full/5466358.jpg" alt="☁ Weather ☁" width ={780} height = {780}>
       </Image>
     </>
   );
