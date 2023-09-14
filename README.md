@@ -49,7 +49,3 @@ If you have access to Plugins, you can try this plugin out!
 
 https://user-images.githubusercontent.com/28986134/231842599-ab80ccc2-b1c2-4d24-bdfc-c023eebdf320.mp4
 
-To add your newly deployed Plugin to ChatGPT, follow the steps from [Try the Plugin](#try-the-plugin) above, but instead of clicking on "Install an unverified plugin", select "Develop your own plugin" instead. Note that you'll need access to develop ChatGPT Plugins to be able to do this.
-
-![CleanShot 2023-04-14 at 17 21 56](https://user-images.githubusercontent.com/28986134/232164948-d77c25c8-3ace-4b8c-8d30-db8d2b6283a5.png)
-
